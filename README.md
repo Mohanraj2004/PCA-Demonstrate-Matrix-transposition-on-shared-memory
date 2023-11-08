@@ -24,9 +24,9 @@ Introduce the main function, in the main method set up the device ,array size an
 Save and execute the program.
 
 ## PROGRAM :
-Developed By : **VISHWA RATHINAM S**
+Developed By : **S.Mohan raj**
 </br>
-Register No. : **212221240063**
+Register No. : **212221230065**
 ```py
 #include "common.h"
 #include <cuda_runtime.h>
